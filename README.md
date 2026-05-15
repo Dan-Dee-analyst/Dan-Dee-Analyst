@@ -22,8 +22,12 @@
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+ 
+  - 
+<h2>👨‍🎓   CERTIFICATION</h2>
+
+
+  - [Data Analysis Certification)](https://www.credential.net/c95fa4d6-598c-4ca6-975e-475b3591dfe6#acc.NjBpd2vV)
 
 <h2>📺 Popular YouTube Videos</h2>
 
