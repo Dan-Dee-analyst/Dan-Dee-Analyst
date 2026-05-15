@@ -6,6 +6,10 @@
   - [Data Exploratory](https://github.com/Dan-Dee-analyst/Data-Exploratory/blob/main/README.md)
  
   - [Data Curation](https://github.com/Dan-Dee-analyst/Data-Curation/blob/main/README.md)
+ 
+  - [Final Report](https://github.com/Dan-Dee-analyst/Final-Project/edit/main/README.md)
+ 
+  - 
   - 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
