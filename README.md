@@ -1,4 +1,5 @@
-<h1>Hi, I'm Daniel! <br/><a <a href="https://www.linkedin.com/in/deriwadaniel7119/">Data analyst</a>, <a href="https:youtube.com/@danielleniell8796?si=65D3pd1ZdM3i6q3x">YouTuber</a></h1>
+<h1>Hi, I'm Daniel! 
+  <br/><a <a href="https://www.linkedin.com/in/deriwadaniel7119/">Data analyst</a>, <a href="https:youtube.com/@danielleniell8796?si=65D3pd1ZdM3i6q3x">YouTuber</a></h1>
 
 <h2>👨‍💻 Data analyst Projects:</h2>
 
@@ -9,8 +10,8 @@
  
   - [Final Report](https://github.com/Dan-Dee-analyst/Final-Project/blob/main/README.md)
  
-  - 
-  - 
+    
+  -
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
