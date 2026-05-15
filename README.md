@@ -7,7 +7,7 @@
  
   - [Data Curation](https://github.com/Dan-Dee-analyst/Data-Curation/blob/main/README.md)
  
-  - [Final Report](https://github.com/Dan-Dee-analyst/Final-Project/edit/main/README.md)
+  - [Final Report](https://github.com/Dan-Dee-analyst/Final-Project/blob/main/README.md)
  
   - 
   - 
