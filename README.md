@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data analyst Projects:</h2>
 
 - <b>Data Analytics Coding Challenges</b>
-  - [Data Exploratory](https://github.com/Dan-Dee-analyst/Data-Exploratory)
+  - [Data Exploratory](https://github.com/Dan-Dee-analyst/Data-Exploratory/blob/main/README.md)
  
   - [Data Curation](https://github.com/Dan-Dee-analyst/Data-Curation/blob/main/README.md)
   - 
