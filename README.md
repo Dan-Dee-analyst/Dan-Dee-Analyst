@@ -23,7 +23,7 @@
  
     
   -
-  - <b>EXCEL Practice (Student Performance Analysis Dashboard (Excel & Tableau))</b>
+  - <b>EXCEL Practice (Excel & Tableau))</b>
 
   - [Excel worksheet](https://github.com/Dan-Dee-analyst/excel/blob/main/README.md) <b><i>
 
