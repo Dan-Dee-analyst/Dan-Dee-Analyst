@@ -1,5 +1,5 @@
 <h1>Hi, I'm Daniel! 
-  <br/><a <a href="https://www.linkedin.com/in/deriwadaniel7119/">Data analyst</a>, <a href="https:youtube.com/@danielleniell8796?si=65D3pd1ZdM3i6q3x">YouTuber</a></h1>
+  <br/><a <a href="https://www.linkedin.com/in/deriwadaniel7119/">Data analyst</a>, <a href="https://youtube.com/@danielleniell8796?si=65D3pd1ZdM3i6q3x">YouTuber</a></h1>
 
 
   ## 🧠 About Me
