@@ -1,6 +1,17 @@
 <h1>Hi, I'm Daniel! 
   <br/><a <a href="https://www.linkedin.com/in/deriwadaniel7119/">Data analyst</a>, <a href="https:youtube.com/@danielleniell8796?si=65D3pd1ZdM3i6q3x">YouTuber</a></h1>
 
+
+  ## 🧠 About Me
+
+- 📊 Passionate and detail-oriented **Data Analyst** with hands-on experience in data cleaning, exploratory data analysis, visualization, and reporting. Skilled in transforming raw data into actionable insights that support business growth and informed decision-making. Proficient in tools such as Excel, SQL, Python, Power BI and Tableau with a strong foundation in data storytelling and problem-solving.
+- 💻 Building **Full Stack Web Apps** with React, Node.js, Azure & ML components
+- 🎬 **YouTuber** sharing data & tech content
+- 🔐 Interested in **cybersecurity**, IT automation, and systems administration
+- 🌍 Always learning, always building
+
+---
+
 <h2>👨‍💻 Data analyst Projects:</h2>
 
 - <b>Data Analytics Coding Challenges</b>
@@ -12,7 +23,8 @@
  
     
   -
-- <b>EXCEL Practice (Student Performance Analysis Dashboard (Excel & Tableau))</b>
+  - <b>EXCEL Practice (Student Performance Analysis Dashboard (Excel & Tableau))</b>
+
   - [Excel worksheet](https://github.com/Dan-Dee-analyst/Dan-Dee-Analyst/blob/main/excel_and_tableau.xlsx) <b><i>
 
   
