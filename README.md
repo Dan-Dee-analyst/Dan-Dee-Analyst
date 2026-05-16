@@ -4,6 +4,8 @@
 
   ## 🧠 About Me
 
+- [My Page](https://drive.google.com/file/d/1wMdWHR2PxrddykWiIWwGKUCaVjkGzGjN/view?usp=sharing)
+
 - 📊 Passionate and detail-oriented **Data Analyst** with hands-on experience in data cleaning, exploratory data analysis, visualization, and reporting. Skilled in transforming raw data into actionable insights that support business growth and informed decision-making. Proficient in tools such as Excel, SQL, Python, Power BI and Tableau with a strong foundation in data storytelling and problem-solving.
 - 💻 Building **Full Stack Web Apps** with React, Node.js, Azure & ML components
 - 🎬 **YouTuber** sharing data & tech content
@@ -45,7 +47,6 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of an Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
