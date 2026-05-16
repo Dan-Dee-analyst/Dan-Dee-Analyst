@@ -47,10 +47,10 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [A Day in the Life of an Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [A Day in the Life of an Anayst](https://www.youtube.comch?v=uHy3oM7NnoU)
+- [How to Create a KeyLogger (C#)](https://www.youtch?v=N-L9hklSlNk)
+- [Ransomware Demonstration (C#)](https://www.yo/watch?v=OfvdQeh79s0)
+- [Is WGU Legit?](https://www.youtube.com/wa2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
