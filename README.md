@@ -59,6 +59,6 @@
 [<img align="left" alt="Dan-Dee-analyst | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [youtube]: https://youtube.com/@danielleniell8796?si=65D3pd1ZdM3i6q3x
-[instagram]: https://www.instagram.com/Dan-Dee-analyst/
+[instagram]: https://www.instagram.com/classified_danny?igsh=eWIxNDU2bnhrZ2Q1&utm_source=qr
 [linkedin]: https://www.linkedin.com/in/deriwadaniel7119
 <!--
