@@ -13,7 +13,9 @@
     
   -
 - <b>EXCEL Practice (Student Performance Analysis Dashboard (Excel & Tableau))</b>
-  - [Excel worksheet](https://github.com/Dan-Dee-analyst/Dan-Dee-Analyst/blob/main/excel_and_tableau.xlsx) <b><i>(Potentially NSFW)</b></i>
+  - [Excel worksheet](https://github.com/Dan-Dee-analyst/Dan-Dee-Analyst/blob/main/excel_and_tableau.xlsx) <b><i>
+
+  
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
