@@ -25,7 +25,7 @@
   -
   - <b>EXCEL Practice (Excel & Tableau))</b>
 
-  - [Excel worksheet](https://github.com/Dan-Dee-analyst/excel/blob/main/README.md) <b><i>
+  - [Worksheet](https://github.com/Dan-Dee-analyst/excel/blob/main/README.md) <b><i>
 
   
 - <b>PowerShell</b>
